@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lbl_Search">Search</string>
+    <string name="lbl_salvar">Salvar Endereço</string>
+    <string name="lbl_max">Max :</string>
+    <string name="lbl_min">Min :</string>
+    <string name="lbl_dia1">Dia 1</string>
+    <string name="lbl_dia2">Dia 2</string>
+    <string name="lbl_dia3">Dia 3</string>
+    <string name="lbl_dia4">Dia 4</string>
+    <string name="lbl_dia5">Dia 5</string>
+    <string name="lbl_dia6">Dia 6</string>
+    <string name="lbl_dia7">Dia 7</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_search">Search</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

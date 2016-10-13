@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "270148962486",
+    "firebase_url": "https://weather-4e645.firebaseio.com",
+    "project_id": "weather-4e645",
+    "storage_bucket": "weather-4e645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270148962486:android:62ed17eb063586b5",
+        "android_client_info": {
+          "package_name": "com.example.power.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270148962486-9j4odc1df5nrpfb8qcse6sl6kq06fqvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeuYiIXB4xJvK8mDpNOXqoUvkG4rlQIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
